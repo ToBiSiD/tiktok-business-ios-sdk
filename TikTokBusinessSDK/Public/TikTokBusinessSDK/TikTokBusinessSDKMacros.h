@@ -1,0 +1,1 @@
+../../../TikTokBusinessSDK/TikTokBusinessSDKMacros.h
